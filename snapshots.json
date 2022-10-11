@@ -1,0 +1,18 @@
+[{
+    "name": "Home",
+    "url": "/",
+    "waitForTimeout": 1000
+  }, {
+    "name": "Pricing",
+    "url": "/pricing",
+    "waitForTimeout": 1000
+  },{
+    "name": "Automate",
+    "url": "/integrations/automate",
+    "waitForTimeout": 1000
+  }, {
+    "name": "Docs",
+    "url": "/docs",
+    "waitForTimeout": 1000
+  }
+]
